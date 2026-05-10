@@ -5,6 +5,6 @@ dist
 .git
 .claude
 coverage
-logs
+/logs
 tests
 README.md
